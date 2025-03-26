@@ -13,4 +13,6 @@ ERD is called 'Crowdfunding ERD.png' in our submission as well.
 
 We uploaded that schema to SQL, and queried all the tables.  Screenshots of those queries are in the 'Table Screenshots' folder
 
+![Crowdfunding ERD](https://github.com/user-attachments/assets/71df2f29-471b-4b05-9483-4ce9226ae3b2)
 
+<img width="1430" alt="Contacts_Table_screenshot" src="https://github.com/user-attachments/assets/311be2b8-bccc-48cb-a729-4bd166de7b99" />
