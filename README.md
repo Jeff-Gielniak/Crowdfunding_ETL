@@ -1,5 +1,4 @@
-# Crowdfunding_ETL
-Project 2
+#SQL_Crowdfunding_Database_Creation
 
 Date: 2025-3-3
 
